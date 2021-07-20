@@ -3,7 +3,7 @@
 1. Avtorji projekta:
 - Amadej Šenk Juh 
 - Eva Bizilj
-- 
+
 8. Navodila za zagon aplikacije
 
 - $ git clone https://github.com/gg4822/OO-projekt.git

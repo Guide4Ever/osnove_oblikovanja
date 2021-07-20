@@ -4,7 +4,7 @@
 - Amadej Šenk Juh 
 - Eva Bizilj
 
-8. Navodila za zagon aplikacije
+2. Navodila za zagon aplikacije
 
 - $ git clone https://github.com/gg4822/OO-projekt.git
 - $ cd OO-projekt/OO/oo-projekt
